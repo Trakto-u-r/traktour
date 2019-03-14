@@ -1,4 +1,4 @@
-# traktour
+# Traktour
 Simple Tractor Navigation Via GraphHopper
 
 
@@ -10,3 +10,9 @@ Simple Tractor Navigation Via GraphHopper
    http://download.geofabrik.de/europe/germany/brandenburg-latest.osm.pbf
 3. run GraphHopper Maps: 
    java -Dgraphhopper.datareader.file=brandenburg-latest.osm.pbf -jar graphhopper-web-0.13-SNAPSHOT.jar server config.yml
+4. If everything works fine you should get a message like ([main] INFO  o.e.jetty.server.AbstractConnector - Started    
+   application@63dfdad0{HTTP/1.1,[http/1.1]}{localhost:8989}). Simply open your browser then and open localhost:8989. The 
+   routing should be working now.
+
+Make sure the latest JRE is installed.
+

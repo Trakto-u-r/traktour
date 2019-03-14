@@ -1,8 +1,6 @@
 # ![TrakTo(u)r](http://www.geoinfo.io/projects/traktour/traktour500x90.gif)
 Simple Tractor Navigation Via GraphHopper
 
-![TrakTo(u)r - Example](http://www.geoinfo.io/projects/traktour/tractor_screen.png)
-
 ## Getting Started
 
 1. Download files (config.yml and graphhopper-web-0.13-SNAPSHOT.jar)
@@ -17,3 +15,4 @@ Simple Tractor Navigation Via GraphHopper
 
 Make sure the latest JRE is installed.
 
+![TrakTo(u)r - Example](http://www.geoinfo.io/projects/traktour/tractor_screen.png)

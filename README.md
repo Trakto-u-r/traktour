@@ -1,7 +1,8 @@
+![TrakTo(u)r](http://www.geoinfo.io/projects/traktour/traktour500x90.gif)
 # Traktour
 Simple Tractor Navigation Via GraphHopper
 
-![TrakTo(u)r](https://drive.google.com/open?id=1I24WrN4bC93n4R1fWVe5hvKKLkLLK5nr)
+![TrakTo(u)r](http://www.geoinfo.io/projects/traktour/tractor_screen.png)
 
 ## Getting Started
 
